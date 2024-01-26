@@ -5,11 +5,6 @@ pip install python-multipart sqlalchemy jinja2
 
 uvicorn app:app --reload
 ```
-# FastAPI To-Do Application Documentation
-
-## Introduction
-
-This FastAPI To-Do application provides a simple yet powerful platform for managing your daily tasks efficiently. Built with FastAPI, it leverages the framework's speed, reliability, and Pythonic design to offer a seamless API experience.
 
 ## About FastAPI
 
