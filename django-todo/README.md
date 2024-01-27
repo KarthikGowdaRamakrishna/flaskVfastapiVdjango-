@@ -117,6 +117,12 @@ python manage.py runserver
 
 Navigate to `http://127.0.0.1:8000/` to use the application, and to `http://127.0.0.1:8000/admin` to access the admin interface.
 
+**enter your set credintials**
+![image](https://github.com/KarthikGowdaRamakrishna/flaskVfastapiVdjango-/assets/144963620/3d03fc5c-2971-4da3-8263-34d8671d1d2f)
+![image](https://github.com/KarthikGowdaRamakrishna/flaskVfastapiVdjango-/assets/144963620/01173891-e97d-445e-a773-856cec0e6ed5)
+**We can make changes and modify our database from here has needed**
+![image](https://github.com/KarthikGowdaRamakrishna/flaskVfastapiVdjango-/assets/144963620/b9e5c1f5-2a24-44ee-a0f4-1e41d8fda6d0)
+
 
 
 ### 3. URL Routing
