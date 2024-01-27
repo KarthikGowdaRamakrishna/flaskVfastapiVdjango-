@@ -1,0 +1,13 @@
+Test ID,Framework,Operation,Response Time (ms),Throughput (req/sec),CPU Usage (%),Memory Usage (MB),Error Rate (%),Development Time (mins),Bug Count,Lines of Code,Developer Satisfaction (1-10)
+1,Flask,Create Task,80,90,25,85,1,9,1,45,7
+2,Django,List Tasks,95,85,30,95,0.5,10,0,55,8
+3,FastAPI,Update Task,60,110,20,75,0.2,2,2,40,9
+4,Flask,Delete Task,100,70,35,95,1.5,2,3,60,6
+5,Django,Create Task,110,65,40,105,0.7,20,1,70,7
+6,FastAPI,List Tasks,70,115,22,80,0.3,3,4,50,8
+7,Flask,Update Task,90,80,28,88,1.2,5,2,48,7
+8,Django,Delete Task,85,75,33,98,0.6,5,1,58,8
+9,FastAPI,Create Task,55,120,18,78,0.1,12,3,43,9
+10,Flask,List Tasks,120,60,38,100,1.8,3,4,65,6
+11,Django,Update Task,130,55,43,110,0.9,7,2,75,7
+12,FastAPI,Delete Task,65,125,21,82,0.4,3,5,55,8
