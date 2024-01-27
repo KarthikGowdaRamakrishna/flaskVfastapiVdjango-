@@ -46,12 +46,6 @@ python manage.py createsuperuser
 ### CRUD
 - implement views
 
-Below is a sample Markdown (`.md`) file content for your Django To-Do application, focusing on the features of Django that are particularly relevant to building and managing a To-Do application. This content can be saved in a `.md` file, such as `FEATURES.md`, within your Django project directory.
-
-```markdown
-# Django To-Do Application Features
-
-## Introduction
 
 This document highlights the core features of Django that empower the development and functionality of the Django To-Do application. Django, a high-level Python web framework, encourages rapid development and clean, pragmatic design. This To-Do application leverages Django's robust features to provide a user-friendly task management system.
 
@@ -117,6 +111,6 @@ The To-Do application benefits from Django's security features, ensuring that ta
 The Django To-Do application exemplifies how Django's features can be leveraged to build a robust, efficient, and secure web application. From its ORM and admin interface to its URL routing, template engine, forms, and security features, Django provides all the tools necessary to build and manage a comprehensive To-Do application.
 
 For more information on Django and its extensive features, visit the [official Django documentation](https://docs.djangoproject.com/en/stable/).
-```
+
 
 This document outlines the benefits and usage of Django's features within the context of a To-Do application. You might need to adjust the content to better align with your application's specific features, structure, and functionality.
